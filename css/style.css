@@ -53,6 +53,7 @@ nav{
     outline: none;
     background-color: transparent;
     border-radius: .3rem;
+    color: white;
 }
 #search-input::placeholder{
     color: white;
